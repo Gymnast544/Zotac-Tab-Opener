@@ -6,7 +6,7 @@ def open_tab(url):
 
 steps = ["1: Login", "2: ATC", "3: Paypal start", "4: Paypal review"]
 urls = ["https://www.zotacstore.com/us/customer/account/login/", "https://www.zotacstore.com/us/graphics-cards/geforce-rtx-30-series?limit=24", "https://store.zotac.com/paypal/express/start/", "https://store.zotac.com/paypal/express/review/"]
-amounts = [15, 20, 20, 50]
+amounts = [6, 6, 6, 6]
 
 while True:
     print("\n\n\n")
